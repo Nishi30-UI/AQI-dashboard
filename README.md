@@ -67,4 +67,6 @@ Tech Stack:
 * DAX / Power Query: Data modeling & transformation
 * Microsoft Bing Maps: Geographic visualizations
 
+Screen shot: https://github.com/Nishi30-UI/AQI-dashboard/blob/main/image.png
+
 
